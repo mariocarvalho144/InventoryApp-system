@@ -1,4 +1,4 @@
-// Regras
+// Arquitetura + condições
 using System;
 using System.Collections.Generic;
 using InventoryApp.Models;
